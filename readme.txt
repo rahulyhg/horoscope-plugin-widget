@@ -28,7 +28,10 @@ Go to Dashboard -> Appearance -> Widgets and ensure the AWeber Mailing List widg
 Go to Dashboard -> Appearance -> Widgets -> Open the "Horoscope Widget" settings and enable the widget.
 
 == Screenshots ==
-soon...
+
+1. Widget menu
+2. Horoscope sample
+3. Widget Configuration(optional)
 
 == Changelog ==
 = 1.0.1 =
