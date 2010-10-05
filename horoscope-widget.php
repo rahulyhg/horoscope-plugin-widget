@@ -65,7 +65,7 @@ $width = $instance['width'];
 if (!is_numeric($width)) // If not num
 	$width = '190';
 
-$imageDir = htmlspecialchars($srcUrl) . '/wp-content/plugins/horoscope-widget/images' . $imageSet . '/';
+$imageDir = htmlspecialchars($srcUrl) . '/wp-content/plugins/horoscope-plugin-widget/images' . $imageSet . '/';
 
 
 $randIdPredix = 'id' . rand() . '_';
@@ -439,19 +439,19 @@ else
 		<input type="radio" name="<?php echo $this->get_field_name('imageSet'); ?>" value="1" <?php if ($imageSet == '1') echo 'checked'; ?>>
 		</td>
 		<td>
-		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-widget/images1/taurus.png" border=0><br>
+		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-plugin-widget/images1/taurus.png" border=0><br>
 		</td>
 		<td>
 		<input type="radio" name="<?php echo $this->get_field_name('imageSet'); ?>" value="2" <?php if ($imageSet == '2') echo 'checked'; ?>>
 		</td>
 		<td>
-		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-widget/images2/taurus.png" border=0><br>
+		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-plugin-widget/images2/taurus.png" border=0><br>
 		</td>
 		<td>
 		<input type="radio" name="<?php echo $this->get_field_name('imageSet'); ?>" value="3" <?php if ($imageSet == '3') echo 'checked'; ?>>
 		</td>
 		<td>
-		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-widget/images3/taurus.png" border=0><br>
+		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-plugin-widget/images3/taurus.png" border=0><br>
 		</td>
 		</tr>
 		<tr>
@@ -459,13 +459,13 @@ else
 		<input type="radio" name="<?php echo $this->get_field_name('imageSet'); ?>" value="4" <?php if ($imageSet == '4') echo 'checked'; ?>>
 		</td>
 		<td>
-		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-widget/images4/taurus.png" border=0><br>
+		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-plugin-widget/images4/taurus.png" border=0><br>
 		</td>
 		<td>
 		<input type="radio" name="<?php echo $this->get_field_name('imageSet'); ?>" value="5" <?php if ($imageSet == '5') echo 'checked'; ?>>
 		</td>
 		<td>
-		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-widget/images5/taurus.png" border=0><br>
+		<img src="<?php echo get_bloginfo ('wpurl'); ?>/wp-content/plugins/horoscope-plugin-widget/images5/taurus.png" border=0><br>
 		</td>
 		<td>
 		<input type="radio" name="<?php echo $this->get_field_name('imageSet'); ?>" value="6" <?php if ($imageSet == '6') echo 'checked'; ?>>
