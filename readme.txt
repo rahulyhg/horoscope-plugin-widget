@@ -30,7 +30,7 @@ Go to Dashboard -> Appearance -> Widgets -> Open the "Horoscope Widget" settings
 == Screenshots ==
 
 1. Widget menu
-2. Horoscope sample
+2. Leo's Horoscope
 3. Widget Configuration(optional)
 
 == Changelog ==
