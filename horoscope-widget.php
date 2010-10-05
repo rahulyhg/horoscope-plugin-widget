@@ -396,8 +396,8 @@ if ($acceptWidget != "1")
         ?>
 
 <div id="horoscopeAcceptMessage">
-<p>In order to enable the Widget you need to accept the "powered by" link that will be displayed in the bottom of the wodget.<br/>
-You can see it and then disable the widget whnever you want.
+<p>In order to enable the Widget you need to accept the "powered by" link that will be displayed in the bottom of the widget.<br/>
+You can see it and then disable the widget whenever you want.
 </p>
 <table cellpadding="3px">
 <tr>
