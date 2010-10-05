@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Horoscope Plugin Widget
-Plugin URI: http://plugins.svn.wordpress.org/horoscope-plugin-widget/
+Plugin URI: http://wordpress.org/extend/plugins/horoscope-plugin-widget/
 Description: Let your visitors read daily horoscope in your wordpress site.
 Version: 1.0.1
 Author: unaproject
