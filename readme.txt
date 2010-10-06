@@ -36,6 +36,10 @@ Go to Dashboard -> Appearance -> Widgets -> Open the "Horoscope Widget" settings
 3. Widget Configuration(optional)
 
 == Changelog ==
+= 1.0.2 =
+1. Changes in CSS for supporting more Wordpress themes
+2. Added "No Icons" setting for smaller widget width
+
 = 1.0.1 =
 the first stable version
 
