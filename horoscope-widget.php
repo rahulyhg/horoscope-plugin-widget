@@ -3,7 +3,7 @@
 Plugin Name: Horoscope Plugin Widget
 Plugin URI: http://wordpress.org/extend/plugins/horoscope-plugin-widget/
 Description: Let your visitors read daily horoscope in your wordpress site.
-Version: 1.0.1
+Version: 1.0.2
 Author: unaproject
 Author URI: http://www.bzodiac.com/
 */
