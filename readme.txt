@@ -1,6 +1,6 @@
 === Horoscope Plugin Widget ===
 Contributors: unaproject
-Tags: horoscope, astrology, zodiac sings, widget, sidebar, astrology signs, daily horoscope, zodiac sign, horoscopes
+Tags: horoscope, astrology, zodiac sings, widget, sidebar, astrology signs, daily horoscope, zodiac sign, horoscopes, plugin
 Requires at least: 2.8
 Tested up to: 1.0.2
 Stable tag: 1.0.2
@@ -12,7 +12,7 @@ Let your visitors read daily horoscope in your wordpress site.
 Wordpress Daily Horoscope - This nifty widget lets you add a Daily Horoscope Sidebar to your wordpress blog or website.
 The design of the widget is adjustable and can be simply tweaked through the wordpress setup page to blend in smoothly with your website.
 
-Let us know your suggestions, comments and concerns by filling out the contact form in [bZodiac](http://www.bzodiac.com).
+Let us know your suggestions, comments and concerns by filling out the contact form in [Zodiac Signs](http://www.bzodiac.com).
 
 == Installation ==
 
