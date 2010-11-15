@@ -1,6 +1,6 @@
 === Horoscope Plugin Widget ===
 Contributors: unaproject
-Tags: horoscope, astrology, zodiac sings, widget, sidebar, astrology signs, daily horoscope, zodiac sign, horoscopes, plugin
+Tags: horoscope, astrology, zodiac sings, widget, sidebar, astrology signs, daily horoscope, zodiac sign, horoscopes, plugin, daily, today
 Requires at least: 2.8
 Tested up to: 1.0.2
 Stable tag: 1.0.2
